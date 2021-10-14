@@ -23,3 +23,15 @@ padding-top: 80px;
   -o-transition: all 0.5s 0s ease;
   transition: all 0.5s 0s ease;
 }
+.tire-left {
+    width: 350px;
+    height: 350px;
+    background-image: url("https://i.ibb.co/tz2y1Xr/tire-service.jpg");
+    background-repeat: no-repeat;
+    background-blend-mode: overlay;
+    background-size: cover;
+  background-position: center;
+}
+.tire-left .all-btn {
+    margin-left: 30px;
+}
