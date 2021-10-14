@@ -1,8 +1,6 @@
 import React from 'react';
 import './Banner.css';
-import banner1 from '../../../images/banner/banner-1.png';
-import banner2 from '../../../images/banner/banner-2.png';
-import banner3 from '../../../images/banner/banner-3.png';
+
 
 const Banner = () => {
     return (
@@ -15,11 +13,10 @@ const Banner = () => {
                 </div>
                 <div className="carousel-inner">
                     <div className="carousel-item active">
-                        <img src={banner1} className="d-block w-100 banner-img" alt="..." />
+                        <img src="https://i.ibb.co/9Nr78ZT/banner-1.png" className="d-block w-100 banner-img" alt="..." />
                         <div className="carousel-caption row">
                             <div className="col-md-4"></div>
                             <div className="col-md-8">
-                                <h3 className="thumbnail-title">Car Doctor Services</h3>
                                 <h1 className="heading text-warning">caring for your car the way you would</h1>
                                 <button className="all-btn m-3">GET QUITE</button>
                                 <button className="all-btn m-3">APPOINTMENT</button>
@@ -27,10 +24,9 @@ const Banner = () => {
                         </div>
                     </div>
                     <div className="carousel-item">
-                        <img src={banner2} className="d-block w-100 banner-img" alt="..." />
+                        <img src="https://i.ibb.co/2FXN3Nd/banner-2.png" className="d-block w-100 banner-img" alt="..." />
                         <div className="carousel-caption d-none d-md-block">
                             <div className="col-md-8">
-                                <h3 className="thumbnail-title">Car Doctor Care</h3>
                                 <h1 className="heading text-warning">Fine Tunning your auto to premium levels</h1>
                                 <button className="all-btn m-3">ABOUT US</button>
                                 <button className="all-btn m-3">APPOINTMENT</button>
@@ -39,11 +35,10 @@ const Banner = () => {
                         </div>
                     </div>
                     <div className="carousel-item">
-                        <img src={banner3} className="d-block w-100 banner-img" alt="..." />
+                        <img src="https://i.ibb.co/9VnqppR/banner-3.png" className="d-block w-100 banner-img" alt="..." />
                         <div className="carousel-caption d-none d-md-block">
                             <div className="col-md-4"></div>
                             <div className="col-md-8">
-                                <h3 className="thumbnail-title">Car Doctor Garage</h3>
                                 <h1 className="heading text-warning">a building for housing a motor vehicle or vehicles</h1>
                                 <button className="all-btn m-3">CONTACT US</button>
                                 <button className="all-btn m-3">APPOINTMENT</button>

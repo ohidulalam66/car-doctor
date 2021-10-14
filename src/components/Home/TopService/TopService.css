@@ -1,3 +1,10 @@
+.card-img {
+    background: #F2F2F2;
+    padding: 20px;
+    width: 100PX;
+    height: 100PX;
+    border-radius: 50%;
+}
 .card-text {
     font-size: 15px;
 }

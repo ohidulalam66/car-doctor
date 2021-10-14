@@ -6,7 +6,9 @@ const TopService = ({ topService }) => {
     return (
         <>
             <div className="col text-center">
-                <img src={img} className="w-25 mb-3" alt="..." />
+                <div className="card-img mx-auto mb-3">
+                    <img src={img} className="w-100" alt="..." />
+                </div>
                 <div>
                     <h4 className="fw-bold">{name}</h4>
                     <p className="card-text">
