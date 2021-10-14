@@ -14,9 +14,8 @@
 .gallery-btn:hover {
     color: black;
     background: white;
-    /* transform: scale(1.1); */
-    -webkit-transition: all 0.5s 0s ease;
-  -moz-transition: all 0.5s 0s ease;
-  -o-transition: all 0.5s 0s ease;
-  transition: all 0.5s 0s ease;
+    -webkit-transition: all 0.1s 0s ease;
+  -moz-transition: all 0.1s 0s ease;
+  -o-transition: all 0.1s 0s ease;
+  transition: all 0.1s 0s ease;
 }

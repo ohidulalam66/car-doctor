@@ -25,7 +25,7 @@ const TireServices = () => {
                             <div id="accordionExample">
                                 <div>
                                     <h2 className="accordion-header" id="headingOne">
-                                        <button className="accordion-button bg-white" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                        <button className="accordion-button bg-white fw-bold text-dark" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                             What Diameter?
                                         </button>
                                     </h2>
@@ -39,7 +39,7 @@ const TireServices = () => {
                                 </div>
                                 <div>
                                     <h2 className="accordion-header" id="headingTwo">
-                                        <button className="accordion-button collapsed bg-white" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                        <button className="accordion-button collapsed bg-white fw-bold text-dark" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                             What Width?
                                         </button>
                                     </h2>
@@ -53,7 +53,7 @@ const TireServices = () => {
                                 </div>
                                 <div>
                                     <h2 className="accordion-header" id="headingThree">
-                                        <button className="accordion-button collapsed bg-white" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                        <button className="accordion-button collapsed bg-white fw-bold text-dark" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                             What is Aspect Ratio?
                                         </button>
                                     </h2>

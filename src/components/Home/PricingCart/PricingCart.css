@@ -1,0 +1,15 @@
+.pricing-container {
+    background-image: url("https://i.ibb.co/XYjfVCz/pricing-cart.jpg")
+    ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.pricing-img {
+    width: 380px;
+    height: 380px;
+    object-fit: cover;
+}
+.table-border {
+    border: 3px solid #1A4C76;
+}

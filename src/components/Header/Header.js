@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 const Header = () => {
     return (
         <div>
-            <div className="header">
+            <div className="header py-4">
                 <div className="container d-flex align-items-center">
                     <Link to="/home"><img className="header-logo" src={logo} alt="" /></Link>
                     <div className="d-flex align-items-center ms-auto icon">
