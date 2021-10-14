@@ -1,0 +1,15 @@
+.banner-img {
+    height: 90vh;
+    filter: blur(2px);
+  -webkit-filter: blur(2px);
+}
+.thumbnail-title {
+  font-size: 60px;
+  /* background: #1a4c76; */
+  color: #1a4c76;
+}
+.heading {
+    font-weight: 900;
+    font-size: 50px;
+    text-transform: uppercase;
+}

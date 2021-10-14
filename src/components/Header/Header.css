@@ -1,0 +1,18 @@
+.header {
+    background: #1a4c76;
+}
+.header-logo {
+    width: 150px;
+    height: 150px;
+}
+.icon i {
+    font-size: 50px;
+    margin-left: 50px;
+}
+.first-details {
+    font-size: 12px;
+}
+.second-details {
+    font-size: 20px;
+    color: white;
+}

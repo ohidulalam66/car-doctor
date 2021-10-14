@@ -1,0 +1,6 @@
+.navbar {
+    color: yellowgreen;
+}
+.navbar:hover{
+    color:red;
+  }

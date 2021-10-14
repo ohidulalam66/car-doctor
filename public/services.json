@@ -1,0 +1,86 @@
+[
+    {
+        "image": "https://i.ibb.co/j38YqqM/Engine-braking-prohibite-1.png",
+        "name": "Engine-braking-prohibited",
+        "price": 258,
+        "mechanics": 4,
+        "description": "A no engine braking road sign warns truck drivers against using the engine to brake. Truck drivers normally downshift the engine to slow the truck down without applying the breaks."
+    },
+    {
+        "image": "https://i.ibb.co/PzqtY63/engine-mounting-2.png",
+        "name": "Engine-Mounting",
+        "price": 389,
+        "mechanics": 3,
+        "description": "The engine mount is the part of the chassis on which an engine is supported. The vibration may be due to an overly worn or defective engine mount."
+    },
+    {
+        "image": "https://i.ibb.co/K2JX7Vv/engine-spark-plug-wires-3.png",
+        "name": "Engine Spark Plug Wires",
+        "price": 128,
+        "mechanics": 7,
+        "description": "Spark plug wires are the components in spark ignition systems that transfer high voltage pulses between the voltage source, the distributor, and the spark plugs."
+    },
+    {
+        "image": "https://i.ibb.co/h90NCSF/car-washing-4.png",
+        "name": "Washing",
+        "price": 80,
+        "mechanics": 2,
+        "description": "An area or structure equipped with facilities for washing automobiles.An event at which people pay to have their cars washed to raise money for some purpose."
+    },
+    {
+        "image": "https://i.ibb.co/C7zd5wP/car-charging-5.png",
+        "name": "Charging",
+        "price": 130,
+        "mechanics": 3,
+        "description": "'Self-charging' is a term used by Toyota, Lexus, and most recently Kia, to describe a hybrid car that mixes a petrol or diesel engine with electric power."
+    },
+    {
+        "image": "https://i.ibb.co/R4ZgpYp/tire-change-6.png",
+        "name": "Tire Change",
+        "price": 160,
+        "mechanics": 5,
+        "description": "Change a tire means change what tire is on a wheel. It is a physical action. It is uninstalling one tire and installing a different tire on the same wheel"
+    },
+    {
+        "image": "https://i.ibb.co/wLHHFKx/oil-change-7.png",
+        "name": "Oil Change",
+        "price": 530,
+        "mechanics": 3,
+        "description": "An Oil Change is the act of removing the used oil in your engine and replacing it with new, clean oil. Over time, oil breaks down and gets dirty. That's why it's important to change your oil according your car's specifications."
+    },
+    {
+        "image": "https://i.ibb.co/Ry1d3wH/engine-manifold-repair-8.png",
+        "name": "Engine Manifold Repair",
+        "price": 80,
+        "mechanics": 2,
+        "description": "They may be small but gaskets are vital to your vehicle. Frequently placed between two surfaces and joined with bolts, auto gaskets act as a seal to hold fluids."
+    },
+    {
+        "image": "https://i.ibb.co/fxzycM8/car-spring-compressor-9.png",
+        "name": "Coil Spring Compressor",
+        "price": 260,
+        "mechanics": 7,
+        "description": "Coil spring compressors are tools that are used to service certain types of automotive suspensions. The purpose of a coil spring compressor is to remove the tension from a strut assembly so that it can be safely disassembled for service and then reassembled afterwards."
+    },
+    {
+        "image": "https://i.ibb.co/RDG9hqM/car-steering-repair-10.png",
+        "name": "Steering Repair",
+        "price": 345,
+        "mechanics": 3,
+        "description": "The steering wheel is attached to a steering shaft, which descends down toward the front axle. At the other end of the steering shaft is a circular gear, which is called the “pinion."
+    },
+    {
+        "image": "https://i.ibb.co/2cXXc1B/car-tire-repair-kit-11.png",
+        "name": "Tire Repair kit",
+        "price": 150,
+        "mechanics": 4,
+        "description": "Repair kit is tire repair equipment that typically consists of an emergency tire sealant and a means of refilling a flat tire.a pack, usually kept in the vehicle that has everything required to mend a puncture."
+    },
+    {
+        "image": "https://i.ibb.co/chmCHft/old-engine-repair-12.png",
+        "name": "Old Engine Repair",
+        "price": 640,
+        "mechanics": 6,
+        "description": "Normally does not involve completely disassembling the engine. It is only taken apart to the point of repairing or replacing the faulty part. This can be as simple as replacing spark plugs, or as involved as replacing or repairing a cylinder head."
+    }
+]
