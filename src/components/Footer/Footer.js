@@ -7,7 +7,7 @@ const Footer = () => {
     return (
         <>
             <div className="footer-container">
-                <div className="container text-white py-5">
+                <div className="container text-white pt-5">
                     <div className="row">
                         <div className="col-md-3">
                             <h4 className="fw-bold text-warning">ABOUT US</h4>
@@ -56,25 +56,32 @@ const Footer = () => {
                             <h4 className="fw-bold text-warning">OUR SERVICES</h4>
                             <hr />
                             <div className="services-link">
-                                <i class="fas fa-chevron-right"></i> <Link to="/" className="text-white">Brakes Repair</Link>
+                                <i className="fas fa-chevron-right"></i> <Link to="/" className="text-white">Brakes Repair</Link>
                                 <br />
                                 <br />
-                                <i class="fas fa-chevron-right"></i> <Link to="/" className="text-white">Engine Diagnostics</Link>
+                                <i className="fas fa-chevron-right"></i> <Link to="/" className="text-white">Engine Diagnostics</Link>
                                 <br />
                                 <br />
-                                <i class="fas fa-chevron-right"></i> <Link to="/" className="text-white">Lube, Oil and Filters</Link>
+                                <i className="fas fa-chevron-right"></i> <Link to="/" className="text-white">Lube, Oil and Filters</Link>
                                 <br />
                                 <br />
-                                <i class="fas fa-chevron-right"></i> <Link to="/" className="text-white">Air Conditioning</Link>
+                                <i className="fas fa-chevron-right"></i> <Link to="/" className="text-white">Air Conditioning</Link>
                                 <br />
                                 <br />
-                                <i class="fas fa-chevron-right"></i> <Link to="/" className="text-white">Exhaust Repair</Link>
+                                <i className="fas fa-chevron-right"></i> <Link to="/" className="text-white">Exhaust Repair</Link>
                                 <br />
                                 <br />
-                                <i class="fas fa-chevron-right"></i> <Link to="/" className="text-white">Wheels Alignment</Link>
+                                <i className="fas fa-chevron-right"></i> <Link to="/" className="text-white">Wheels Alignment</Link>
                             </div>
                         </div>
                     </div>
+                    <div className="text-center pt-5">
+                        <i className="fab fa-facebook-f icon-footer"></i>
+                        <i className="fab fa-youtube icon-footer"></i>
+                        <i className="fab fa-twitter icon-footer"></i>
+                        <i className="fab fa-linkedin-in icon-footer"></i>
+                    </div>
+                    <p className="text-center mt-5 copyright">© 2021 Car Doctor Theme crafted with  in Bucharest</p>
                 </div>
             </div>
         </>
@@ -82,6 +89,3 @@ const Footer = () => {
 };
 
 export default Footer;
-
-// https://i.ibb.co/P51jcs7/footer-1.jpg
-// 

@@ -12,7 +12,7 @@ const PricingCart = () => {
                     <div className="col-md-6">
                         <h2 className="fw-bold">PRICING</h2>
                         <p>Lowest prices for car inspection</p>
-                        <table class="table table-border">
+                        <table className="table table-border">
                             <thead className="bg-warning">
                                 <tr>
                                     <th scope="col">ENGINE SIZE</th>

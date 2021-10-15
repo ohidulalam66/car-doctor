@@ -1,0 +1,11 @@
+.card-box {
+    background: #F2F2F2;
+    border-radius: 20px;
+}
+.services-img {
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+    object-fit: cover;
+    image-rendering: auto;
+}

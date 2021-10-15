@@ -1,6 +1,6 @@
 .footer-container {
     background: #1a4c76;
-    height: 70vh;
+    height: 85vh;
     font-size: 14px;
 }
 .footer-container hr {
@@ -31,6 +31,7 @@
     border: none;
     border-radius: 5px;
     font-weight: 600;
+    font-size: 12px;
 }
 .footer-btn:hover {
     color: black;
@@ -42,4 +43,15 @@
 }
 .services-link {
     font-size: 16px;
+}
+.icon-footer {
+    margin-right: 50px;
+    font-size: 35px;
+    cursor: pointer;
+}
+.icon-footer:hover{
+    color: #F4C70B;
+}
+.copyright {
+    letter-spacing: 3px;
 }
